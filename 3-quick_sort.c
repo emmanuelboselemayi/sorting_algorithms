@@ -1,4 +1,4 @@
-nclude "sort.h"
+#include "sort.h"
 
 /**
  * partition - scans a partition of an array of integers for values less than
